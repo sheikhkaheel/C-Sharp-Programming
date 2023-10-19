@@ -2,7 +2,7 @@
 
 namespace C_Shrp_Programing
 {
-    class Program
+    class MainProgram
     {
         static void Main(string[] args)
         {
