@@ -1,0 +1,16 @@
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\bin\Debug\net5.0\C Shrp Programing.exe
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\bin\Debug\net5.0\C Shrp Programing.deps.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\bin\Debug\net5.0\C Shrp Programing.runtimeconfig.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\bin\Debug\net5.0\C Shrp Programing.runtimeconfig.dev.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\bin\Debug\net5.0\C Shrp Programing.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\bin\Debug\net5.0\ref\C Shrp Programing.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\bin\Debug\net5.0\C Shrp Programing.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.csproj.AssemblyReference.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.AssemblyInfoInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.AssemblyInfo.cs
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.csproj.CoreCompileInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\ref\C Shrp Programing.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# Programming\C Shrp Programing\C Shrp Programing\obj\Debug\net5.0\C Shrp Programing.genruntimeconfig.cache
