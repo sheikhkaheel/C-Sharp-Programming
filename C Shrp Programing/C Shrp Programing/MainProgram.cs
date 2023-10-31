@@ -13,11 +13,21 @@ namespace C_Shrp_Programing
             Loop rep = new Loop();
             Star ptr = new Star();
             Time Count = new Time();
-            Tbl.Form();
+            Prime number = new Prime();
+            /*Tbl.Form();
             Name.Symbol();
             rep.Continue();
             ptr.Pattners();
-            Count.Clock();
+            Count.Clock();*/
+            number.num = 10;
+            bool check = number.isPrime();
+            if(check == true)
+            {
+                Console.WriteLine("Number is Prime");
+            } else
+            {
+                Console.WriteLine("Number is not Prime");
+            }
         }
     }
 }
@@ -68,7 +78,7 @@ class Loop
             Console.WriteLine("Bit is greater");
         }
         Console.WriteLine("Loop");
-        int loop = 2, num = 1;
+        int loop = 5, num = 1;
         while (num <= 10)
         {
             int mul = loop * num;
@@ -196,4 +206,24 @@ class Star
         }
     }
 
+}
+
+public class Prime
+{
+    public int num;
+    private bool flag = true;
+    public bool isPrime()
+    {
+        int k = 2;
+        while (k<num/2)
+        {
+            if(num % k == 0)
+            {
+                flag = false;
+                return flag;
+            }
+            k++;
+        }
+        return flag;
+    }
 }
