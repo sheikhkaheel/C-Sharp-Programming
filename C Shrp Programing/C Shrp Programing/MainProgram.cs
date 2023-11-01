@@ -14,11 +14,13 @@ namespace C_Shrp_Programing
             Star ptr = new Star();
             Time Count = new Time();
             Prime number = new Prime();
+            Person kaheel = new Person();
+            Student person = new Student();
             /*Tbl.Form();
             Name.Symbol();
             rep.Continue();
             ptr.Pattners();
-            Count.Clock();*/
+            Count.Clock();
             number.num = 10;
             bool check = number.isPrime();
             if(check == true)
@@ -28,6 +30,10 @@ namespace C_Shrp_Programing
             {
                 Console.WriteLine("Number is not Prime");
             }
+            kaheel.setVal("kaheel", "Illahi Bagh");
+            kaheel.getVal();*/
+            person.setVal();
+            person.getVal();
         }
     }
 }
@@ -225,5 +231,41 @@ public class Prime
             k++;
         }
         return flag;
+    }
+}
+
+public class Person
+{
+    public string Name;
+    private int Age = 21;
+    public string Address;
+    public void setVal(string name , string address)
+    {
+        Name = name;
+        Address = address;
+    }
+    public void getVal()
+    {
+        Console.WriteLine($"Person name is {Name} , age is {Age} and old address {Address}");
+    }
+}
+
+public class Student
+{
+    public string Name;
+    private int Age = 21;
+    public string Address;
+    public void setVal()
+    {
+        setActVal();
+    }
+    public void setActVal()
+    {
+        this.Name = "kaheel";
+        this.Address = "Hawal";
+    }
+    public void getVal()
+    {
+        Console.WriteLine($"Person name is {Name} , age is {Age} and address {Address}");
     }
 }
