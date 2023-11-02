@@ -16,24 +16,29 @@ namespace C_Shrp_Programing
             Prime number = new Prime();
             Person kaheel = new Person();
             Student person = new Student();
-            /*Tbl.Form();
+            Traingle tr = new Traingle();
+            Length ln = new Length();
+            Tbl.Form();
             Name.Symbol();
             rep.Continue();
             ptr.Pattners();
             Count.Clock();
             number.num = 10;
             bool check = number.isPrime();
-            if(check == true)
+            if (check == true)
             {
                 Console.WriteLine("Number is Prime");
-            } else
+            }
+            else
             {
                 Console.WriteLine("Number is not Prime");
             }
             kaheel.setVal("kaheel", "Illahi Bagh");
-            kaheel.getVal();*/
+            kaheel.getVal();
             person.setVal();
             person.getVal();
+            tr.SetAreaOfTraingle(5, 3);
+            Console.WriteLine($"{tr.GetAreaOfTraingle()}");
         }
     }
 }
@@ -268,4 +273,24 @@ public class Student
     {
         Console.WriteLine($"Person name is {Name} , age is {Age} and address {Address}");
     }
+}
+
+public class Traingle {
+    private int height;
+    private int length;
+    public void SetAreaOfTraingle(int Length, int Height)
+    {
+        this.length = Length;
+        this.height = Height;
+    }
+    public double GetAreaOfTraingle()
+    {
+        double area = (0.5 * length * height);
+        return area;
+    }
+}
+
+public class Length
+{
+    public int Lenght { set; get; }
 }
