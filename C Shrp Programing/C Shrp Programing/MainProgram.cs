@@ -18,7 +18,8 @@ namespace C_Shrp_Programing
             Student person = new Student();
             Traingle tr = new Traingle();
             Length ln = new Length();
-            Tbl.Form();
+            Plan Square = new Plan();
+            /*Tbl.Form();
             Name.Symbol();
             rep.Continue();
             ptr.Pattners();
@@ -38,7 +39,11 @@ namespace C_Shrp_Programing
             person.setVal();
             person.getVal();
             tr.SetAreaOfTraingle(5, 3);
-            Console.WriteLine($"{tr.GetAreaOfTraingle()}");
+            Console.WriteLine($"{tr.GetAreaOfTraingle()}");*/
+            Square.Length = 4;
+            Square.Breadth = 4;
+            Console.WriteLine(Square.Length);
+            Console.WriteLine(Square.Breadth);
         }
     }
 }
@@ -293,4 +298,48 @@ public class Traingle {
 public class Length
 {
     public int Lenght { set; get; }
+}
+
+public class Plan
+{
+    private int length; // Private backing field for Length
+    private int breadth; // Private backing field for Breadth
+
+    public int Length
+    {
+        get
+        {
+            return length;
+        }
+        set
+        {
+            if (value > 0)
+            {
+                length = value;
+            }
+            else
+            {
+                Console.WriteLine("Length should be greater than 0");
+            }
+        }
+    }
+
+    public int Breadth
+    {
+        get
+        {
+            return breadth;
+        }
+        set
+        {
+            if (value > 0)
+            {
+                breadth = value;
+            }
+            else
+            {
+                Console.WriteLine("Breadth should be greater than 0");
+            }
+        }
+    }
 }

@@ -1,0 +1,16 @@
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\bin\Debug\net5.0\Wazawan.exe
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\bin\Debug\net5.0\Wazawan.deps.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\bin\Debug\net5.0\Wazawan.runtimeconfig.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\bin\Debug\net5.0\Wazawan.runtimeconfig.dev.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\bin\Debug\net5.0\Wazawan.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\bin\Debug\net5.0\ref\Wazawan.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\bin\Debug\net5.0\Wazawan.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.csproj.AssemblyReference.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.AssemblyInfoInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.AssemblyInfo.cs
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.csproj.CoreCompileInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\ref\Wazawan.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wazawan\Wazawan\obj\Debug\net5.0\Wazawan.genruntimeconfig.cache
