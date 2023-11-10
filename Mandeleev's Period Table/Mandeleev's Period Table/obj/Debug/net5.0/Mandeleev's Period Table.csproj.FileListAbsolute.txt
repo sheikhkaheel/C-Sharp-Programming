@@ -1,0 +1,16 @@
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\bin\Debug\net5.0\Mandeleev's Period Table.exe
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\bin\Debug\net5.0\Mandeleev's Period Table.deps.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\bin\Debug\net5.0\Mandeleev's Period Table.runtimeconfig.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\bin\Debug\net5.0\Mandeleev's Period Table.runtimeconfig.dev.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\bin\Debug\net5.0\Mandeleev's Period Table.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\bin\Debug\net5.0\ref\Mandeleev's Period Table.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\bin\Debug\net5.0\Mandeleev's Period Table.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.csproj.AssemblyReference.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.AssemblyInfoInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.AssemblyInfo.cs
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.csproj.CoreCompileInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\ref\Mandeleev's Period Table.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Mandeleev's Period Table\Mandeleev's Period Table\obj\Debug\net5.0\Mandeleev's Period Table.genruntimeconfig.cache
