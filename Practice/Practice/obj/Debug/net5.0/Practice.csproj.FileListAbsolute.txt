@@ -1,0 +1,16 @@
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\bin\Debug\net5.0\Practice.exe
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\bin\Debug\net5.0\Practice.deps.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\bin\Debug\net5.0\Practice.runtimeconfig.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\bin\Debug\net5.0\Practice.runtimeconfig.dev.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\bin\Debug\net5.0\Practice.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\bin\Debug\net5.0\ref\Practice.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\bin\Debug\net5.0\Practice.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.csproj.AssemblyReference.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.AssemblyInfoInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.AssemblyInfo.cs
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.csproj.CoreCompileInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\ref\Practice.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Practice\Practice\obj\Debug\net5.0\Practice.genruntimeconfig.cache
