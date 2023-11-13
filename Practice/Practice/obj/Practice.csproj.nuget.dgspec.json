@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# programming\\Practice\\Practice\\Practice.csproj": {}
+    "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# Programming\\Practice\\Practice\\Practice.csproj": {}
   },
   "projects": {
-    "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# programming\\Practice\\Practice\\Practice.csproj": {
+    "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# Programming\\Practice\\Practice\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# programming\\Practice\\Practice\\Practice.csproj",
+        "projectUniqueName": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# Programming\\Practice\\Practice\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# programming\\Practice\\Practice\\Practice.csproj",
+        "projectPath": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# Programming\\Practice\\Practice\\Practice.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# programming\\Practice\\Practice\\obj\\",
+        "outputPath": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# Programming\\Practice\\Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -54,8 +54,8 @@ namespace Wazawan
 
     public class Spices
     {
-        private float fennelSeeds, dryGinger, cloves, cinnamon, cardamom, asafoetida, redChiliPowder, turmeric;
-        private float fennelSeedsT = 2, dryGingerT = 3, clovesT = 1, cinnamonT = 1.5f, cardamomT = 2, asafoetidaT = 2, redChiliPowderT = 6, turmericT = 6;
+        private float fennelSeeds, dryGinger, cloves, cinnamon, cardamom, asafoetida, redChiliPowder, turmeric, mustardOil;
+        private float fennelSeedsT = 2, dryGingerT = 3, clovesT = 1, cinnamonT = 1.5f, cardamomT = 2, asafoetidaT = 2, redChiliPowderT = 6, turmericT = 6, mustardOilT = 30;
         private int people;
 
         public void Excess()
@@ -73,7 +73,8 @@ namespace Wazawan
             asafoetida = people * asafoetidaT;
             redChiliPowder = people * redChiliPowderT;
             turmeric = people * turmericT;
-            Console.WriteLine($"Spices \n FennelSeeds {fennelSeeds/1000}kg, DryGinger {dryGinger/1000}kg, Cloves {cloves/1000}kg, Cinnamon {cinnamon/1000}kg,  Cardamom {cardamom/1000}kg, Asafoetida {asafoetida/1000}kg, RedChiliPowder {redChiliPowder/1000}kg, Turmeric {turmeric/1000}kg");
+            mustardOil = people * mustardOilT;
+            Console.WriteLine($"Spices \n FennelSeeds {fennelSeeds/1000}kg, DryGinger {dryGinger/1000}kg, Cloves {cloves/1000}kg, Cinnamon {cinnamon/1000}kg, Cardamom {cardamom/1000}kg, Asafoetida {asafoetida/1000}kg, RedChiliPowder {redChiliPowder/1000}kg, Turmeric {turmeric/1000}kg, MustardOil {mustardOil}kg");
         }
     }
     public class TotalMeat

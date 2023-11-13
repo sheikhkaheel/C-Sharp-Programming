@@ -1,0 +1,45 @@
+﻿OOPS(Object Oriented Programming)
+
+Its the programming based on object and classes
+
+Class 
+ 
+Its is a refrence / blueprint or the instance of a object
+Its does not take memory but after the creation of its object
+We can say class is a virual world while as object is based on real entity.
+
+Object
+
+Its collection of data and methods 
+
+Constructer
+
+Its like a method. Its have same name as Class with no return type. Its used for intialisation.
+
+Excess Modifiers / Specifiers 
+
+These are the specifiers which give excess to the class/ data/ method
+They are public , private, protected , default
+public :- this gives exess (data / methods) to be used within the classes.
+private :- this gives excess (data / methods) to be used within the same class.
+protected :- this gives excess (data / methods) to be used within the classes which are inherited.
+default :- these are added to the package .Package are collection of similiar classes.
+
+Inheritence
+
+Its a concept in which a class (derived / sub/ child class) inherits the properties of another class (base /super/ parent class)
+
+Single Inheritence occurs within two classes and the patterns through single inheritences with many classes gives rise to the differnt types of inheritence 
+like multilevel, multiple, hiararchical and hybrid inheritence
+
+Polymorphism
+
+Its has two types compile time and run time polymorphism
+Compile time polymorphism is called method overloading 
+Method Overloading has two important things i.e functionName and type/no of parameters
+Run time polymorphism is called method overwriting 
+Method Overwriting has 4 important things i.e excessSpecifier ,return type ,methodName ,parameters.
+
+
+
+
