@@ -23,7 +23,6 @@ namespace C_Shrp_Programing
             Name.Symbol();
             rep.Continue();
             ptr.Pattners();
-            Count.Clock();
             number.num = 10;
             bool check = number.isPrime();
             if (check == true)
@@ -40,6 +39,7 @@ namespace C_Shrp_Programing
             person.getVal();
             tr.SetAreaOfTraingle(5, 3);
             Console.WriteLine($"{tr.GetAreaOfTraingle()}");*/
+            Count.Clock();
             Square.Length = 4;
             Square.Breadth = 4;
             Console.WriteLine(Square.Length);

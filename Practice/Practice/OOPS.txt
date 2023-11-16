@@ -41,5 +41,9 @@ Run time polymorphism is called method overwriting
 Method Overwriting has 4 important things i.e excessSpecifier ,return type ,methodName ,parameters.
 
 
+static is a key work that is assigned to either classes or the members of class
+if a class is static then its compalsary thats its all memebers are also static 
+members of static class is directly accessed by class name without creating its object there is no constructer in static class
+
 
 
