@@ -39,11 +39,15 @@ namespace C_Shrp_Programing
             person.getVal();
             tr.SetAreaOfTraingle(5, 3);
             Console.WriteLine($"{tr.GetAreaOfTraingle()}");*/
-            Count.Clock();
+            /*Count.Clock();
             Square.Length = 4;
             Square.Breadth = 4;
             Console.WriteLine(Square.Length);
-            Console.WriteLine(Square.Breadth);
+            Console.WriteLine(Square.Breadth);*/
+            Shape obj;
+            obj = new Circle(5);
+            Console.WriteLine(((Circle)obj).CalculateArea()); // we can also cast abstract class and get properties of abstract as parent and also childs properties.
+
         }
     }
 }

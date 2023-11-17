@@ -6,16 +6,20 @@ namespace Wazawan
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I am Executed");
+            Console.WriteLine("I am Executed \n");
             TotalMeat tm = new TotalMeat();
             Spices sp = new Spices();
             NONVeg nvg = new NONVeg();
+            Veg vg = new Veg();
             tm.setPeople(400);
             nvg.setMeat(); 
             tm.setTrame();
             nvg.CalMeat();
             tm.getTrame();
             nvg.CalVegs();
+            vg.setVegPerTrame();
+            vg.getVegPerTrame();
+            vg.getTotalVeg();
             sp.CalSpices();
         }
     }
@@ -40,7 +44,7 @@ namespace Wazawan
     }
     public class NONVeg : TotalMeat
     {
-        private int ristaT = 100, gostabaT = 100, kababT = 70, chickenT = 80, tabakNateenT = 100, kormaT = 60, roganJoshT = 70, abbeGoshT = 120;
+        private int ristaT = 100, gostabaT = 140, kababT = 80, chickenT = 140, tabakNateenT = 100, kormaT = 80, roganJoshT = 90, abbeGoshT = 120;
         private int rista, gostaba, kabab, chicken, tabakNateen, korma, roganJosh, abbeGosh;
         public int meat;
         public void CalVegs()
@@ -59,13 +63,40 @@ namespace Wazawan
         public void setMeat()
         {
             meat = ristaT + gostabaT + kababT + chickenT + tabakNateenT + kormaT + roganJoshT + abbeGoshT;
-            Console.WriteLine($"Meat per Trame \n {meat}g");
+            Console.WriteLine($"NonVeg per Trame \n {meat}g");
         }
 
         public void CalMeat()
         {
             int totalMeat = this.meat * people;
-            Console.WriteLine($"Total Meat \n {totalMeat / 1000}kg");
+            Console.WriteLine($"Total NonVeg \n {totalMeat / 1000}kg");
+        }
+    }
+
+    public class Veg : TotalMeat
+    {
+        private int palak, chaman, haakh;
+        private int palakT = 50, chamanT = 60, haakhT = 40;
+        private int VegT,Veggy;
+        public void setVegPerTrame()
+        {
+            palak = people * palakT;
+            chaman = people * chamanT;
+            haakh = people * haakhT;
+            Console.WriteLine($"Veg \n Palak {palak/1000}kg Chaman {chaman/1000}kg Haakh {haakh/1000}kg");
+        }
+
+        public void getVegPerTrame()
+        {
+            VegT = palakT + chamanT + haakhT;
+            Console.WriteLine($"Veg per trame \n { VegT}g");
+            Veggy = palak + chaman + haakh;
+        }
+
+        public void getTotalVeg()
+        {
+            int totalVeg = people * this.Veggy/1000;
+            Console.WriteLine($"Total Veg \n {totalVeg/1000}kg");
         }
     }
 
