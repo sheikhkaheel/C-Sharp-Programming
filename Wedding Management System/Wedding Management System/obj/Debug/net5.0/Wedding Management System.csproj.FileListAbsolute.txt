@@ -1,0 +1,16 @@
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\bin\Debug\net5.0\Wedding Management System.exe
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\bin\Debug\net5.0\Wedding Management System.deps.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\bin\Debug\net5.0\Wedding Management System.runtimeconfig.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\bin\Debug\net5.0\Wedding Management System.runtimeconfig.dev.json
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\bin\Debug\net5.0\Wedding Management System.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\bin\Debug\net5.0\ref\Wedding Management System.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\bin\Debug\net5.0\Wedding Management System.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.csproj.AssemblyReference.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.AssemblyInfoInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.AssemblyInfo.cs
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.csproj.CoreCompileInputs.cache
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\ref\Wedding Management System.dll
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.pdb
+D:\Coding 2023\Basic-HTML-main\Programing\C# programming\Wedding Management System\Wedding Management System\obj\Debug\net5.0\Wedding Management System.genruntimeconfig.cache
