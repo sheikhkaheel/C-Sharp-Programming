@@ -1,0 +1,118 @@
+﻿
+// xml part
+
+<userRegistration>
+	<user>
+		<userId>01</userId>
+		<roleId>01</roleId>
+		<firstName>Sheikh</firstName>
+		<lastName>Kaheel</lastName>
+		<userName>sheikhkaheel</userName>
+		<password>1234</password>
+		<createdBy>...</createdBy>
+		<createdOn>...</createdOn>
+		<modifiedBy>...</modifiedBy>
+		<modifiedOn>...</modifiedOn>
+		<isDeleted>...</isDeleted>
+	</user>
+	<user>
+		<userId>02</userId>
+		<roleId>01</roleId>
+		<firstName>Zaid</firstName>
+		<lastName>Shah</lastName>
+		<userName>zaidshah</userName>
+		<password>5678</password>
+		<createdBy>...</createdBy>
+		<createdOn>...</createdOn>
+		<modifiedBy>...</modifiedBy>
+		<modifiedOn>...</modifiedOn>
+		<isDeleted>...</isDeleted>
+	</user>
+	<user>
+		<userId>03</userId>
+		<roleId>02</roleId>
+		<firstName>Shataan</firstName>
+		<lastName>Waza</lastName>
+		<userName>shataanwaza</userName>
+		<password>abcd</password>
+		<createdBy>...</createdBy>
+		<createdOn>...</createdOn>
+		<modifiedBy>...</modifiedBy>
+		<modifiedOn>...</modifiedOn>
+		<isDeleted>...</isDeleted>
+	</user>
+	<user>
+		<userId>04</userId>
+		<roleId>03</roleId>
+		<firstName>Shafi</firstName>
+		<lastName>Dar</lastName>
+		<userName>shafidar</userName>
+		<password>vxyz</password>
+		<createdBy>...</createdBy>
+		<createdOn>...</createdOn>
+		<modifiedBy>...</modifiedBy>
+		<modifiedOn>...</modifiedOn>
+		<isDeleted>...</isDeleted>
+	</user>
+</userRegistration>
+
+// json part
+
+{
+  "userRegistration": {
+    "user": [
+      {
+        "userId": "01",
+        "roleId": "01",
+        "firstName": "Sheikh",
+        "lastName": "Kaheel",
+        "userName": "sheikhkaheel",
+        "password": "1234",
+        "createdBy": "...",
+        "createdOn": "...",
+        "modifiedBy": "...",
+        "modifiedOn": "...",
+        "isDeleted": "..."
+      },
+      {
+        "userId": "02",
+        "roleId": "01",
+        "firstName": "Zaid",
+        "lastName": "Shah",
+        "userName": "zaidshah",
+        "password": "5678",
+        "createdBy": "...",
+        "createdOn": "...",
+        "modifiedBy": "...",
+        "modifiedOn": "...",
+        "isDeleted": "..."
+      },
+      {
+        "userId": "03",
+        "roleId": "02",
+        "firstName": "Shataan",
+        "lastName": "Waza",
+        "userName": "shataanwaza",
+        "password": "abcd",
+        "createdBy": "...",
+        "createdOn": "...",
+        "modifiedBy": "...",
+        "modifiedOn": "...",
+        "isDeleted": "..."
+      },
+      {
+        "userId": "04",
+        "roleId": "03",
+        "firstName": "Shafi",
+        "lastName": "Dar",
+        "userName": "shafidar",
+        "password": "vxyz",
+        "createdBy": "...",
+        "createdOn": "...",
+        "modifiedBy": "...",
+        "modifiedOn": "...",
+        "isDeleted": "..."
+      }
+    ]
+  }
+}
