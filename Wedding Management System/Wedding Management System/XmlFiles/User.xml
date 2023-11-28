@@ -3,6 +3,7 @@
 		<userId>01</userId>
 		<roleId>01</roleId>
 		<firstName>Sheikh</firstName>
+		<middleName>Muhammad</middleName>
 		<lastName>Kaheel</lastName>
 		<userName>sheikhkaheel</userName>
 		<password>1234</password>
@@ -16,6 +17,7 @@
 		<userId>02</userId>
 		<roleId>01</roleId>
 		<firstName>Zaid</firstName>
+		<middleName>Muhammad</middleName>
 		<lastName>Shah</lastName>
 		<userName>zaidshah</userName>
 		<password>5678</password>
@@ -29,6 +31,7 @@
 		<userId>03</userId>
 		<roleId>02</roleId>
 		<firstName>Shataan</firstName>
+		<middleName>Dar</middleName>
 		<lastName>Waza</lastName>
 		<userName>shataanwaza</userName>
 		<password>abcd</password>
@@ -42,6 +45,7 @@
 		<userId>04</userId>
 		<roleId>03</roleId>
 		<firstName>Shafi</firstName>
+		<middleName>Muhammad</middleName>
 		<lastName>Dar</lastName>
 		<userName>shafidar</userName>
 		<password>vxyz</password>

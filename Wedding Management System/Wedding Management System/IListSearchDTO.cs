@@ -8,7 +8,7 @@ namespace Wedding_Management_System
 {
     public interface IListSearchDTO
     {
-        public int List();
-        public int Search();
+        public int List(ListUserDTO list);
+        public int Search(SearchUserDTO search);
     }
 }

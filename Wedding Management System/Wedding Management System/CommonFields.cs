@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Wedding_Management_System
 {
-    class CommonFields
+    public class CommonFields
     {
         public int createdBy { get; set; }
         public DateTime createdOn { get; set; }

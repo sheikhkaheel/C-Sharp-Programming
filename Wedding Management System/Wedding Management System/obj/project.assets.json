@@ -17,7 +17,7 @@
       "projectName": "Wedding Management System",
       "projectPath": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# programming\\Wedding Management System\\Wedding Management System\\Wedding Management System.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# programming\\Wedding Management System\\Wedding Management System\\obj\\",
+      "outputPath": "D:\\Coding 2023\\Basic-HTML-main\\Programing\\C# Programming\\Wedding Management System\\Wedding Management System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

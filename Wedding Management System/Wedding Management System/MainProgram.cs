@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Wedding_Management_System
 {
@@ -20,12 +21,25 @@ namespace Wedding_Management_System
             user1.userId = 01;
             user1.roleId = role1.roleId;
             user1.firstName = "sheikh";
+            user1.middleName = "muhammad";
             user1.lastName = "kaheel";
             user1.userName = "sheikhkaheel";
             user1.password = "1234";
 
-            Console.WriteLine($"User1\n UserID {user1.userId} UserRoleId {user1.roleId} FirstName {user1.firstName} LastName {user1.lastName} UserName {user1.userName} Password {user1.password}");
+            Console.WriteLine($"User1\n UserID {user1.userId} UserRoleId {user1.roleId} FirstName {user1.firstName} MiddleName {user1.middleName} LastName {user1.lastName} UserName {user1.userName} Password {user1.password}");
 
+            PostUserDTO post = new PostUserDTO();
+            post.firstName = "Zubair";
+            post.middleName = "Altaf";
+            post.lastName = "Rangrez";
+            post.userName = "abc";
+            post.password = "abc@123";
+
+            List<PostUserDTO> listuser = new List<PostUserDTO>();
+            listuser.Add(post);
+
+            UserAction action1 = new UserAction();
+            action1.Save(post);
         }
     }
 }

@@ -8,7 +8,7 @@ namespace Wedding_Management_System
 {
     public interface ISaveUpdateDTO
     {
-        public int Save();
-        public int Update();
+        public int Save(PostUserDTO post);
+        public int Update(PutUserDTO put);
     }
 }

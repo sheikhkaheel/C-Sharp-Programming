@@ -1,0 +1,62 @@
+{
+  "UserRole": {
+    "role": [
+      {
+        "roleId": "01",
+        "roleName": "papa",
+        "displayName": "Father",
+        "isSuperAdmin": "0",
+        "isAdmin": "0",
+        "isParent": "1",
+        "isWaza": "0",
+        "isShopkeeper": "0",
+        "isActive": "..."
+      },
+      {
+        "roleId": "02",
+        "roleName": "waze1",
+        "displayName": "Cook",
+        "isSuperAdmin": "0",
+        "isAdmin": "0",
+        "isParent": "0",
+        "isWaza": "1",
+        "isShopkeeper": "0",
+        "isActive": "..."
+      },
+      {
+        "roleId": "03",
+        "roleName": "pops",
+        "displayName": "Father",
+        "isSuperAdmin": "0",
+        "isAdmin": "0",
+        "isParent": "1",
+        "isWaza": "0",
+        "isShopkeeper": "0",
+        "isActive": "..."
+      },
+      {
+        "roleId": "04",
+        "roleName": "waze2",
+        "displayName": "Cook",
+        "isSuperAdmin": "0",
+        "isAdmin": "0",
+        "isParent": "0",
+        "isWaza": "1",
+        "isShopkeeper": "0",
+        "isActive": "..."
+      },
+      {
+        "roleId": "05",
+        "roleName": "papa",
+        "displayName": "Father",
+        "isSuperAdmin": "0",
+        "isAdmin": "0",
+        "isParent": "1",
+        "isWaza": "0",
+        "isShopkeeper": "0",
+        "isActive": "..."
+      }
+    ]
+  }
+}
+
